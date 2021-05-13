@@ -199,7 +199,7 @@
         <thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
         <thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
         <thymeleaf-layout-dialect.version>2.2.2</thymeleaf-layout-dialect.version>
-        <tomcat.version>8.5.23</tomcat.version>
+        <tomcat.version>8.5.61</tomcat.version>
         <unboundid-ldapsdk.version>4.0.1</unboundid-ldapsdk.version>
         <undertow.version>1.4.21.Final</undertow.version>
         <versions-maven-plugin.version>2.3</versions-maven-plugin.version>
