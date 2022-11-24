@@ -71,7 +71,7 @@
         <hazelcast.version>3.9</hazelcast.version>
         <hazelcast-hibernate5.version>1.2.2</hazelcast-hibernate5.version>
         <hdrhistogram.version>2.1.10</hdrhistogram.version>
-        <hibernate.version>5.2.12.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
         <hibernate-validator.version>6.0.4.Final</hibernate-validator.version>
         <hikaricp.version>2.7.2</hikaricp.version>
         <hsqldb.version>2.4.0</hsqldb.version>
